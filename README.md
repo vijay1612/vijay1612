@@ -24,11 +24,13 @@ Languages
 ### Frameworks
 - TensorFlow, Keras, PyTorch, CUDA, OpenMP, REST, Langchain, Pandas, NumPy, Scipy, Sklearn
 
-### Data Engineering and Analytics
+### Data Engineering & Analytics
 - MongoDB, MySQL, PostgreSQL, Pinecone, Azure Storage Service, RDS, ETL, Athena, Kinesis, S3, Spark, Data Analytics
 
 ### Cloud Platforms
-- AWS (S3, EC2, Lambda, EC2, DynamoDB), Azure (Azure SQL, Cosmos DB, Azure Data Lake, Synapse Analytics), Google Cloud (BigQuery, Data Catalog), Salesforce (System Analysis)
+- **AWS**: S3, EC2, Lambda, DynamoDB  
+- **Azure**: Azure SQL, Cosmos DB, Azure Data Lake, Synapse Analytics   
+- **Salesforce**: System Analysis
 
 ### BI & Analytics
 - Power BI, Spark SQL, MLflow (Machine Learning Operations)
